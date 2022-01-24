@@ -3,7 +3,10 @@ import React from 'react';
 function Nav() {
     return (
         <section>
-            Nav
+            <nav>
+                <h1>Weather Dashboard</h1>
+                <p>Four day forecast.</p>
+            </nav>
         </section>
     )
 }
